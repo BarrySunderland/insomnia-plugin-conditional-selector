@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-conditional-selector",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "conditional-selector",
+    "description": "conditionally select between two variables",
+    "displayName": "conditional-selector",
+    "images": {
+      "icon": "if_else_icon.png",
+      "cover": "cover.svg"
+    },
+    "unlisted": false,
+    "publisher": {
+      "name": "Barry"
+    }
+  },
+  "main": "main.js"
+}
