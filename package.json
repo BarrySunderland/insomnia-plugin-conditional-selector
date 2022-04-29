@@ -2,10 +2,11 @@
   "name": "insomnia-plugin-conditional-selector",
   "version": "0.0.1",
   "private": false,
-  "homepage":"https://github.com/BarrySunderland/insomnia-plugin-conditional-selector#readme",
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/BarrySunderland/insomnia-plugin-conditional-selector",
+  "homepage": "https://github.com/BarrySunderland/insomnia-plugin-conditional-selector#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BarrySunderland/insomnia-plugin-conditional-selector"
+  },
   "insomnia": {
     "name": "conditional-selector",
     "description": "conditionally select between two variables",
@@ -19,6 +20,6 @@
       "name": "Barry"
     }
   },
-  "licence":"MIT",
+  "licence": "MIT",
   "main": "main.js"
 }
