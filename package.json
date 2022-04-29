@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-conditional-selector",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "insomnia": {
     "name": "conditional-selector",
     "description": "conditionally select between two variables",
